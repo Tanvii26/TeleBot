@@ -20,7 +20,7 @@ ref_menu = db.reference("/Menu")
 ref_combo = db.reference("/Combo")
 ref_order = db.reference("/Order")
 ref_bill=db.reference("/Bill")
-API_TOKEN = "5742295256:AAF4wpyXMjuQcbXH-mARmjOK7BjmbPiR9Oc"
+API_TOKEN = "<KEY>"
 
 bot = telebot.TeleBot(API_TOKEN)
 
