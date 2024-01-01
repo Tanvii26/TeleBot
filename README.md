@@ -1,5 +1,5 @@
-##🤖Telegram integrated food ordering bot with an easy click interface!!
+## 👩‍💻Telegram integrated food ordering bot with an easy click interface!!
 Features:
-Customizable Menu
-Billing Facility 
-Order Review
+- Customizable Menu
+- Billing Facility 
+- Order Review
